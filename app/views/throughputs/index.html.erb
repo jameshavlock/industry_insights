@@ -1,0 +1,150 @@
+<div>
+  <div>
+    <h1>
+      List of all throughputs
+    </h1>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h2>
+      Add a new throughput
+    </h2>
+
+    <form action="/insert_throughput" method="post">
+      <div>
+        <label for="facility_id_box">
+          Facility
+        </label>
+
+        <input type="text" id="facility_id_box" name="query_facility_id">
+      </div>
+
+      <div>
+        <label for="product_box">
+          Product
+        </label>
+
+        <input type="text" id="product_box" name="query_product">
+      </div>
+
+      <div>
+        <label for="year_box">
+          Year
+        </label>
+
+        <input type="text" id="year_box" name="query_year">
+      </div>
+
+      <div>
+        <label for="supply_details_box">
+          Supply details
+        </label>
+
+        <input type="text" id="supply_details_box" name="query_supply_details">
+      </div>
+
+      <div>
+        <label for="quantity_box">
+          Quantity
+        </label>
+
+        <input type="text" id="quantity_box" name="query_quantity">
+      </div>
+
+      <button>
+        Create throughput
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          ID
+        </th>
+
+        <th>
+          Facility
+        </th>
+
+        <th>
+          Product
+        </th>
+
+        <th>
+          Year
+        </th>
+
+        <th>
+          Supply details
+        </th>
+
+        <th>
+          Quantity
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_throughputs.each do |a_throughput| %>
+      <tr>
+        <td>
+          <%= a_throughput.id %>
+        </td>
+
+        <td>
+          <%= a_throughput.facility_id %>
+        </td>
+
+        <td>
+          <%= a_throughput.product %>
+        </td>
+
+        <td>
+          <%= a_throughput.year %>
+        </td>
+
+        <td>
+          <%= a_throughput.supply_details %>
+        </td>
+
+        <td>
+          <%= a_throughput.quantity %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(a_throughput.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(a_throughput.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/throughputs/<%= a_throughput.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>

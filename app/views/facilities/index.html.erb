@@ -1,0 +1,182 @@
+<div>
+  <div>
+    <h1>
+      List of all facilities
+    </h1>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h2>
+      Add a new facility
+    </h2>
+
+    <form action="/insert_facility" method="post">
+      <div>
+        <label for="throughput_id_box">
+          Throughput
+        </label>
+
+        <input type="text" id="throughput_id_box" name="query_throughput_id">
+      </div>
+
+      <div>
+        <label for="company_id_box">
+          Company
+        </label>
+
+        <input type="text" id="company_id_box" name="query_company_id">
+      </div>
+
+      <div>
+        <label for="padd_id_box">
+          Padd
+        </label>
+
+        <input type="text" id="padd_id_box" name="query_padd_id">
+      </div>
+
+      <div>
+        <label for="state_box">
+          State
+        </label>
+
+        <input type="text" id="state_box" name="query_state">
+      </div>
+
+      <div>
+        <label for="city_box">
+          City
+        </label>
+
+        <input type="text" id="city_box" name="query_city">
+      </div>
+
+      <div>
+        <label for="zip_box">
+          Zip
+        </label>
+
+        <input type="text" id="zip_box" name="query_zip">
+      </div>
+
+      <div>
+        <label for="site_type_box">
+          Site type
+        </label>
+
+        <input type="text" id="site_type_box" name="query_site_type">
+      </div>
+
+      <button>
+        Create facility
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          ID
+        </th>
+
+        <th>
+          Throughput
+        </th>
+
+        <th>
+          Company
+        </th>
+
+        <th>
+          Padd
+        </th>
+
+        <th>
+          State
+        </th>
+
+        <th>
+          City
+        </th>
+
+        <th>
+          Zip
+        </th>
+
+        <th>
+          Site type
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_facilities.each do |a_facility| %>
+      <tr>
+        <td>
+          <%= a_facility.id %>
+        </td>
+
+        <td>
+          <%= a_facility.throughput_id %>
+        </td>
+
+        <td>
+          <%= a_facility.company_id %>
+        </td>
+
+        <td>
+          <%= a_facility.padd_id %>
+        </td>
+
+        <td>
+          <%= a_facility.state %>
+        </td>
+
+        <td>
+          <%= a_facility.city %>
+        </td>
+
+        <td>
+          <%= a_facility.zip %>
+        </td>
+
+        <td>
+          <%= a_facility.site_type %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(a_facility.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(a_facility.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/facilities/<%= a_facility.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>

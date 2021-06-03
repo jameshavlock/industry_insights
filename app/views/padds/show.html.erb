@@ -1,0 +1,56 @@
+<div>
+  <div>
+    <h1>
+      Padd #<%= @the_padd.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/padds">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_padd/<%= @the_padd.id %>">
+          Delete padd
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_padd.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_padd.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit padd
+    </h2>
+
+    <form action="/modify_padd/<%= @the_padd.id %>"  method="post" >
+      <button>
+        Update padd
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>

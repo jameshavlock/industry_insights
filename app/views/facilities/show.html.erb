@@ -1,0 +1,161 @@
+<div>
+  <div>
+    <h1>
+      Facility #<%= @the_facility.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/facilities">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_facility/<%= @the_facility.id %>">
+          Delete facility
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        Throughput
+      </dt>
+      <dd>
+        <%= @the_facility.throughput_id %>
+      </dd>
+
+      <dt>
+        Company
+      </dt>
+      <dd>
+        <%= @the_facility.company_id %>
+      </dd>
+
+      <dt>
+        Padd
+      </dt>
+      <dd>
+        <%= @the_facility.padd_id %>
+      </dd>
+
+      <dt>
+        State
+      </dt>
+      <dd>
+        <%= @the_facility.state %>
+      </dd>
+
+      <dt>
+        City
+      </dt>
+      <dd>
+        <%= @the_facility.city %>
+      </dd>
+
+      <dt>
+        Zip
+      </dt>
+      <dd>
+        <%= @the_facility.zip %>
+      </dd>
+
+      <dt>
+        Site type
+      </dt>
+      <dd>
+        <%= @the_facility.site_type %>
+      </dd>
+
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_facility.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_facility.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit facility
+    </h2>
+
+    <form action="/modify_facility/<%= @the_facility.id %>"  method="post" >
+      <div>
+        <label for="throughput_id_box">
+          Throughput
+        </label>
+
+        <input type="text" id="throughput_id_box" name="query_throughput_id" value="<%= @the_facility.throughput_id %>">
+      </div>
+
+      <div>
+        <label for="company_id_box">
+          Company
+        </label>
+
+        <input type="text" id="company_id_box" name="query_company_id" value="<%= @the_facility.company_id %>">
+      </div>
+
+      <div>
+        <label for="padd_id_box">
+          Padd
+        </label>
+
+        <input type="text" id="padd_id_box" name="query_padd_id" value="<%= @the_facility.padd_id %>">
+      </div>
+
+      <div>
+        <label for="state_box">
+          State
+        </label>
+
+        <input type="text" id="state_box" name="query_state" value="<%= @the_facility.state %>">
+      </div>
+
+      <div>
+        <label for="city_box">
+          City
+        </label>
+
+        <input type="text" id="city_box" name="query_city" value="<%= @the_facility.city %>">
+      </div>
+
+      <div>
+        <label for="zip_box">
+          Zip
+        </label>
+
+        <input type="text" id="zip_box" name="query_zip" value="<%= @the_facility.zip %>">
+      </div>
+
+      <div>
+        <label for="site_type_box">
+          Site type
+        </label>
+
+        <input type="text" id="site_type_box" name="query_site_type" value="<%= @the_facility.site_type %>">
+      </div>
+
+      <button>
+        Update facility
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>

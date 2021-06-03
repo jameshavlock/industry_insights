@@ -1,0 +1,131 @@
+<div>
+  <div>
+    <h1>
+      Throughput #<%= @the_throughput.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/throughputs">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_throughput/<%= @the_throughput.id %>">
+          Delete throughput
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        Facility
+      </dt>
+      <dd>
+        <%= @the_throughput.facility_id %>
+      </dd>
+
+      <dt>
+        Product
+      </dt>
+      <dd>
+        <%= @the_throughput.product %>
+      </dd>
+
+      <dt>
+        Year
+      </dt>
+      <dd>
+        <%= @the_throughput.year %>
+      </dd>
+
+      <dt>
+        Supply details
+      </dt>
+      <dd>
+        <%= @the_throughput.supply_details %>
+      </dd>
+
+      <dt>
+        Quantity
+      </dt>
+      <dd>
+        <%= @the_throughput.quantity %>
+      </dd>
+
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_throughput.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_throughput.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit throughput
+    </h2>
+
+    <form action="/modify_throughput/<%= @the_throughput.id %>"  method="post" >
+      <div>
+        <label for="facility_id_box">
+          Facility
+        </label>
+
+        <input type="text" id="facility_id_box" name="query_facility_id" value="<%= @the_throughput.facility_id %>">
+      </div>
+
+      <div>
+        <label for="product_box">
+          Product
+        </label>
+
+        <input type="text" id="product_box" name="query_product" value="<%= @the_throughput.product %>">
+      </div>
+
+      <div>
+        <label for="year_box">
+          Year
+        </label>
+
+        <input type="text" id="year_box" name="query_year" value="<%= @the_throughput.year %>">
+      </div>
+
+      <div>
+        <label for="supply_details_box">
+          Supply details
+        </label>
+
+        <input type="text" id="supply_details_box" name="query_supply_details" value="<%= @the_throughput.supply_details %>">
+      </div>
+
+      <div>
+        <label for="quantity_box">
+          Quantity
+        </label>
+
+        <input type="text" id="quantity_box" name="query_quantity" value="<%= @the_throughput.quantity %>">
+      </div>
+
+      <button>
+        Update throughput
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>

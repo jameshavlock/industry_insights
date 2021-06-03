@@ -1,0 +1,166 @@
+<div>
+  <div>
+    <h1>
+      List of all contacts
+    </h1>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h2>
+      Add a new contact
+    </h2>
+
+    <form action="/insert_contact" method="post">
+      <div>
+        <label for="company_id_box">
+          Company
+        </label>
+
+        <input type="text" id="company_id_box" name="query_company_id">
+      </div>
+
+      <div>
+        <label for="email_box">
+          Email
+        </label>
+
+        <input type="text" id="email_box" name="query_email">
+      </div>
+
+      <div>
+        <label for="phone_box">
+          Phone
+        </label>
+
+        <input type="text" id="phone_box" name="query_phone">
+      </div>
+
+      <div>
+        <label for="facility_id_box">
+          Facility
+        </label>
+
+        <input type="text" id="facility_id_box" name="query_facility_id">
+      </div>
+
+      <div>
+        <label for="role_box">
+          Role
+        </label>
+
+        <input type="text" id="role_box" name="query_role">
+      </div>
+
+      <div>
+        <label for="notes_box">
+          Notes
+        </label>
+
+        <input type="text" id="notes_box" name="query_notes">
+      </div>
+
+      <button>
+        Create contact
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          ID
+        </th>
+
+        <th>
+          Company
+        </th>
+
+        <th>
+          Email
+        </th>
+
+        <th>
+          Phone
+        </th>
+
+        <th>
+          Facility
+        </th>
+
+        <th>
+          Role
+        </th>
+
+        <th>
+          Notes
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_contacts.each do |a_contact| %>
+      <tr>
+        <td>
+          <%= a_contact.id %>
+        </td>
+
+        <td>
+          <%= a_contact.company_id %>
+        </td>
+
+        <td>
+          <%= a_contact.email %>
+        </td>
+
+        <td>
+          <%= a_contact.phone %>
+        </td>
+
+        <td>
+          <%= a_contact.facility_id %>
+        </td>
+
+        <td>
+          <%= a_contact.role %>
+        </td>
+
+        <td>
+          <%= a_contact.notes %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(a_contact.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(a_contact.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/contacts/<%= a_contact.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>

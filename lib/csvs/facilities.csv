@@ -1,0 +1,379 @@
+﻿CORPORATION,zip,RDIST_LABEL,state,city,padd_id,PRODUCT,SUPPLY,QUANTITY,company_ID,Location_ID,Year,site_type,throughput_ID,Facility_ID
+DELEK GROUP LTD,ALON REFINING KROTZ SPRINGS INC,Louisiana Gulf Coast,Louisiana,KROTZ SPRINGS,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),83000,1,1,2020,Refinery,10,1
+DELEK GROUP LTD,ALON USA ENERGY INC,Texas Inland,Texas,BIG SPRING,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),74000,1,2,2020,Refinery,25,2
+AMERICAN REFINING GROUP INC,AMERICAN REFINING GROUP INC,Appalachian No. 1,Pennsylvania,BRADFORD,1,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),11800,2,3,2020,Refinery,26,3
+FJ MANAGEMENT INC,BIG WEST OIL CO,Rocky Mountain,Utah,NORTH SALT LAKE,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),33000,3,4,2020,Refinery,45,4
+BP PLC,BP EXPLORATION ALASKA INC,West Coast,Alaska,PRUDHOE BAY,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),8000,4,5,2020,Refinery,48,5
+CONOCOPHILLIPS,CONOCOPHILLIPS ALASKA INC,West Coast,Alaska,PRUDHOE BAY,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),16000,14,6,2020,Refinery,49,6
+BP PLC,BP PRODUCTS NORTH AMERICA INC,Indiana-Illinois-Kentucky,Indiana,WHITING,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),440000,4,7,2020,Refinery,70,7
+BP PLC,BP West Coast Products LLC,West Coast,Washington,FERNDALE,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),251000,4,8,2020,Refinery,84,8
+PHILLIPS 66 COMPANY,PHILLIPS 66 COMPANY,West Coast,Washington,FERNDALE,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),110500,43,9,2020,Refinery,96,9
+BP HUSKY REFINING LLC,BP-HUSKY REFINING LLC,Indiana-Illinois-Kentucky,Ohio,TOLEDO,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),160000,5,10,2020,Refinery,97,10
+PBF ENERGY CO LLC,TOLEDO REFINING CO LLC,Indiana-Illinois-Kentucky,Ohio,TOLEDO,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),188000,10,11,2020,Refinery,112,11
+BUCKEYE PARTNERS LP,BUCKEYE TEXAS PROCESSING LLC,Texas Gulf Coast,Texas,CORPUS CHRISTI,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),65000,6,12,2020,Refinery,126,12
+PDV AMERICA INC,CITGO REFINING & CHEMICAL INC,Texas Gulf Coast,Texas,CORPUS CHRISTI,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),174000,12,13,2020,Refinery,141,13
+VALERO ENERGY CORP,VALERO REFINING CO TEXAS LP,Texas Gulf Coast,Texas,CORPUS CHRISTI,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),297000,19,14,2020,Refinery,163,14
+MAGELLAN MIDSTREAM PARTNERS LP,MAGELLAN TERMINAL HOLDINGS LP,Texas Gulf Coast,Texas,CORPUS CHRISTI,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),50000,37,15,2020,Refinery,164,15
+TRANSWORLD OIL USA INC,CALCASIEU REFINING CO,Louisiana Gulf Coast,Louisiana,LAKE CHARLES,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),137000,7,16,2020,Refinery,170,16
+PDV AMERICA INC,CITGO PETROLEUM CORP,Louisiana Gulf Coast,Louisiana,LAKE CHARLES,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),440000,12,17,2020,Refinery,190,17
+"CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",CALUMET COTTON VALLEY REFINING LLC,North Louisiana-Arkansas,Louisiana,COTTON VALLEY,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),14000,8,18,2020,Refinery,194,18
+"CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",CALUMET MONTANA REFINING LLC,Rocky Mountain,Montana,GREAT FALLS,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),27000,8,19,2020,Refinery,208,19
+"CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",CALUMET PRINCETON REFINING LLC,North Louisiana-Arkansas,Louisiana,PRINCETON,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),8655,8,20,2020,Refinery,215,20
+"CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",CALUMET SHREVEPORT REFINING LLC,North Louisiana-Arkansas,Louisiana,SHREVEPORT,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),60000,8,21,2020,Refinery,228,21
+CHS INC,Cenex Harvest States Coop,Rocky Mountain,Montana,LAUREL,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),63500,9,22,2020,Refinery,248,22
+PBF ENERGY CO LLC,Chalmette Refining LLC,Louisiana Gulf Coast,Louisiana,CHALMETTE,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),197000,10,23,2020,Refinery,265,23
+CHEVRON CORP,CHEVRON USA INC,West Coast,California,EL SEGUNDO,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),290500,11,24,2020,Refinery,266,24
+CHEVRON CORP,CHEVRON USA INC,West Coast,California,RICHMOND,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),257200,11,25,2020,Refinery,285,25
+CHEVRON CORP,CHEVRON USA INC,Louisiana Gulf Coast,Mississippi,PASCAGOULA,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),375200,11,26,2020,Refinery,305,26
+CHEVRON CORP,CHEVRON USA INC,Rocky Mountain,Utah,SALT LAKE CITY,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),57600,11,27,2020,Refinery,325,27
+MARATHON PETROLEUM CORP,TESORO REFINING & MARKETING CO,Rocky Mountain,Utah,SALT LAKE CITY,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),66500,17,28,2020,Refinery,340,28
+CHS INC,CHS MCPHERSON REFINERY INC,Oklahoma-Kansas-Missouri,Kansas,MCPHERSON,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),114930,9,29,2020,Refinery,360,29
+CVR ENERGY,COFFEYVILLE RESOURCES RFG & MKTG,Oklahoma-Kansas-Missouri,Kansas,COFFEYVILLE,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),136000,13,30,2020,Refinery,376,30
+COUNTRYMARK COOP INC,COUNTRYMARK COOPERATIVE INC,Indiana-Illinois-Kentucky,Indiana,MOUNT VERNON,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),30800,15,31,2020,Refinery,383,31
+MARTIN RESOURCE MANAGEMENT GRP,CROSS OIL REFINING & MARKETING INC,North Louisiana-Arkansas,Arkansas,SMACKOVER,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),7700,16,32,2020,Refinery,404,32
+MARATHON PETROLEUM CORP,DAKOTA PRAIRIE REFINING LLC,Minnesota-Wisconsin-North and South Dakota,North Dakota,DICKINSON,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),20000,17,33,2020,Refinery,410,33
+DEER PARK REFINING LTD PTNRSHP,DEER PARK REFINING LTD PARTNERSHIP,Texas Gulf Coast,Texas,DEER PARK,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),340000,18,34,2020,Refinery,411,34
+PBF ENERGY CO LLC,DELAWARE CITY REFINING CO LLC,East Coast,Delaware,DELAWARE CITY,1,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),190200,10,35,2020,Refinery,448,35
+DELEK GROUP LTD,DELEK REFINING LTD,Texas Inland,Texas,TYLER,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),76000,1,36,2020,Refinery,449,36
+VALERO ENERGY CORP,DIAMOND SHAMROCK REFINING CO LP,Texas Inland,Texas,SUNRAY,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),200000,19,37,2020,Refinery,479,37
+VALERO ENERGY CORP,DIAMOND SHAMROCK REFINING CO LP,Texas Inland,Texas,THREE RIVERS,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),91000,19,38,2020,Refinery,497,38
+ERGON INC,ERGON REFINING INC,North Louisiana-Arkansas,Mississippi,VICKSBURG,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),27300,21,41,2020,Refinery,502,41
+ERGON INC,ERGON WEST VIRGINIA INC,Appalachian No. 1,West Virginia,NEWELL,1,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),23000,21,42,2020,Refinery,511,42
+PHILLIPS 66 COMPANY,PHILLIPS 66 COMPANY,Louisiana Gulf Coast,Louisiana,WESTLAKE,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),273000,43,44,2020,Refinery,544,44
+EXXON MOBIL CORP,EXXONMOBIL REFINING & SUPPLY CO,Indiana-Illinois-Kentucky,Illinois,JOLIET,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),275000,23,45,2020,Refinery,545,45
+EXXON MOBIL CORP,EXXONMOBIL REFINING & SUPPLY CO,Louisiana Gulf Coast,Louisiana,BATON ROUGE,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),539000,23,46,2020,Refinery,558,46
+EXXON MOBIL CORP,EXXONMOBIL REFINING & SUPPLY CO,Rocky Mountain,Montana,BILLINGS,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),62900,23,47,2020,Refinery,573,47
+PHILLIPS 66 COMPANY,PHILLIPS 66 COMPANY,Rocky Mountain,Montana,BILLINGS,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),69500,43,48,2020,Refinery,607,48
+EXXON MOBIL CORP,EXXONMOBIL REFINING & SUPPLY CO,Texas Gulf Coast,Texas,BAYTOWN,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),584000,23,49,2020,Refinery,608,49
+EXXON MOBIL CORP,EXXONMOBIL REFINING & SUPPLY CO,Texas Gulf Coast,Texas,BEAUMONT,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),384400,23,50,2020,Refinery,629,50
+MARATHON PETROLEUM CORP,ST PAUL PARK REFINING CO LLC,Minnesota-Wisconsin-North and South Dakota,Minnesota,SAINT PAUL,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),108000,17,51,2020,Refinery,647,51
+KOCH INDUSTRIES INC,Flint Hills Resources LP,Minnesota-Wisconsin-North and South Dakota,Minnesota,SAINT PAUL,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),375000,24,52,2020,Refinery,683,52
+KOCH INDUSTRIES INC,FLINT HILLS RESOURCES LP,Texas Gulf Coast,Texas,CORPUS CHRISTI EAST,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),75000,24,53,2020,Refinery,692,53
+KOCH INDUSTRIES INC,Flint Hills Resources LP,Texas Gulf Coast,Texas,CORPUS CHRISTI WEST,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),275000,24,54,2020,Refinery,708,54
+FORELAND REFINING CORP,FORELAND REFINING CORP,West Coast,Nevada,ELY,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),5000,25,55,2020,Refinery,709,55
+GOODWAY REFINING LLC,GOODWAY REFINING LLC,North Louisiana-Arkansas,Alabama,ATMORE,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),5000,26,56,2020,Refinery,714,56
+PAR PETROLEUM INC,HERMES CONSOLIDATED LLC,Rocky Mountain,Wyoming,NEW CASTLE,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),18500,27,57,2020,Refinery,724,57
+HOLLYFRONTIER CORP,HOLLYFRONTIER CHEYENNE REFINING LLC,Rocky Mountain,Wyoming,CHEYENNE,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),52000,28,58,2020,Refinery,725,58
+DELEK GROUP LTD,LION OIL CO,North Louisiana-Arkansas,Arkansas,EL DORADO,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),85000,1,59,2020,Refinery,740,59
+,Delek Renewables Corp,,Arkansas,EL DORADO,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,1,60,,Biodiesel,757,60
+820,HOLLYFRONTIER EL DORADO REFINING LLC,Oklahoma-Kansas-Missouri,Kansas,EL DORADO,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),165000,28,61,2020,Refinery,758,61
+820,HOLLYFRONTIER NAVAJO REFINING LLC,New Mexico,New Mexico,ARTESIA,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),124000,28,62,2020,Refinery,778,62
+820,HOLLYFRONTIER TULSA REFINING LLC,Oklahoma-Kansas-Missouri,Oklahoma,TULSA EAST,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),75500,28,63,2020,Refinery,794,63
+820,HOLLYFRONTIER TULSA REFINING LLC,Oklahoma-Kansas-Missouri,Oklahoma,TULSA WEST,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),91020,28,64,2020,Refinery,808,64
+820,HOLLYFRONTIER WOODS CROSS REFINING L,Rocky Mountain,Utah,WOODS CROSS,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),41400,28,65,2020,Refinery,819,65
+820,Silver Eagle Refining,Rocky Mountain,Utah,WOODS CROSS,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),15700,48,66,2020,Refinery,838,66
+820,VALERO REFINING CO TEXAS LP,Texas Gulf Coast,Texas,HOUSTON,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),210000,19,67,2020,Refinery,850,67
+820,HOUSTON REFINING LP,Texas Gulf Coast,Texas,HOUSTON,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),289000,20,68,2020,Refinery,851,68
+820,PETROMAX REFINING CO LLC,Texas Gulf Coast,Texas,HOUSTON,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),27500,41,69,2020,Refinery,870,69
+820,HUNT REFINING CO,North Louisiana-Arkansas,Alabama,TUSCALOOSA,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),50000,29,70,2020,Refinery,871,70
+820,HUNT SOUTHLAND REFINING CO,North Louisiana-Arkansas,Mississippi,SANDERSVILLE,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),12500,29,71,2020,Refinery,887,71
+820,KERN OIL & REFINING CO,West Coast,California,BAKERSFIELD,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),27000,30,72,2020,Refinery,892,72
+820,SAN JOAQUIN REFINING CO INC,West Coast,California,BAKERSFIELD,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),25000,45,73,2020,Refinery,911,73
+820,KINDER MORGAN CRUDE & CONDENSATE,Texas Gulf Coast,Texas,GALENA PARK,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),100000,31,74,2020,Refinery,912,74
+820,LAZARUS ENERGY LLC,Texas Inland,Texas,NIXON,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),13600,32,75,2020,Refinery,915,75
+820,LIMA REFINING COMPANY,Indiana-Illinois-Kentucky,Ohio,LIMA,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),185000,33,76,2020,Refinery,918,76
+820,LITTLE AMERICA REFINING CO,Rocky Mountain,Wyoming,EVANSVILLE,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),25500,35,78,2020,Refinery,956,78
+820,LUNDAY THAGARD CO,West Coast,California,SOUTH GATE,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),10000,36,79,2020,Refinery,961,79
+820,MARATHON PETROLEUM CO LP,Indiana-Illinois-Kentucky,Illinois,ROBINSON,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),266000,17,80,2020,Refinery,962,80
+820,MARATHON PETROLEUM CO LP,Indiana-Illinois-Kentucky,Kentucky,CATLETTSBURG,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),306000,17,81,2020,Refinery,978,81
+820,MARATHON PETROLEUM CO LP,Louisiana Gulf Coast,Louisiana,GARYVILLE,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),608000,17,82,2020,Refinery,995,82
+820,MARATHON PETROLEUM CO LP,Indiana-Illinois-Kentucky,Michigan,DETROIT,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),147000,17,83,2020,Refinery,1015,83
+820,MARATHON PETROLEUM CO LP,Indiana-Illinois-Kentucky,Ohio,CANTON,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),100000,17,84,2020,Refinery,1030,84
+820,MARATHON PETROLEUM CO LP,Texas Gulf Coast,Texas,GALVESTON BAY,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),616000,17,85,2020,Refinery,1043,85
+820,MONROE ENERGY LLC,East Coast,Pennsylvania,TRAINER,1,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),208000,38,86,2020,Refinery,1062,86
+820,PREMCOR REFINING GROUP INC,Texas Gulf Coast,Texas,PORT ARTHUR,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),415000,19,87,2020,Refinery,1090,87
+820,Motiva Enterprises LLC,Texas Gulf Coast,Texas,PORT ARTHUR,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),639700,39,88,2020,Refinery,1109,88
+820,TOTAL PETROCHEMICALS & REFINING USA,Texas Gulf Coast,Texas,PORT ARTHUR,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),245000,53,89,2020,Refinery,1121,89
+820,PAR HAWAII REFINING LLC,West Coast,Hawaii,KAPOLEI,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),152000,27,90,2020,Refinery,1138,90
+820,PASADENA REFINING SYSTEMS INC,Texas Gulf Coast,Texas,PASADENA,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),115700,11,91,2020,Refinery,1139,91
+820,PAULSBORO REFINING CO LLC,East Coast,New Jersey,PAULSBORO,1,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),166000,10,92,2020,Refinery,1166,92
+820,PDV Midwest Refining LLC,Indiana-Illinois-Kentucky,Illinois,LEMONT,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),188700,12,93,2020,Refinery,1182,93
+820,PETRO STAR INC,West Coast,Alaska,NORTH POLE,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),22500,40,94,2020,Refinery,1183,94
+820,PETRO STAR INC,West Coast,Alaska,VALDEZ,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),60000,40,95,2020,Refinery,1187,95
+820,PHILLIPS 66 COMPANY,West Coast,California,RODEO,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),128000,43,97,2020,Refinery,1216,97
+820,PHILLIPS 66 COMPANY,West Coast,California,WILMINGTON,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),147000,43,98,2020,Refinery,1234,98
+820,PHILLIPS 66 COMPANY,Louisiana Gulf Coast,Louisiana,BELLE CHASSE,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),269140,43,99,2020,Refinery,1249,99
+820,PHILLIPS 66 COMPANY,East Coast,New Jersey,LINDEN,1,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),272100,43,100,2020,Refinery,1262,100
+820,PHILLIPS 66 COMPANY,Oklahoma-Kansas-Missouri,Oklahoma,PONCA CITY,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),226674,43,101,2020,Refinery,1279,101
+820,PHILLIPS 66 COMPANY,Texas Gulf Coast,Texas,SWEENY,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),278900,43,102,2020,Refinery,1295,102
+820,PLACID REFINING CO,Louisiana Gulf Coast,Louisiana,PORT ALLEN,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),82500,44,103,2020,Refinery,1308,103
+820,SHELL CHEMICAL LP,Louisiana Gulf Coast,Alabama,SARALAND,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),90600,47,105,2020,Refinery,1323,105
+820,TESORO REFINING & MARKETING CO,West Coast,California,MARTINEZ,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),166000,17,106,2020,Refinery,1324,106
+820,Shell Oil Products US,West Coast,California,MARTINEZ,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),158000,47,107,2020,Refinery,1360,107
+820,SHELL OIL PRODUCTS US,Louisiana Gulf Coast,Louisiana,CONVENT,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),260000,47,108,2020,Refinery,1375,108
+820,VALERO REFINING NEW ORLEANS LLC,Louisiana Gulf Coast,Louisiana,NORCO,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),220000,19,109,2020,Refinery,1376,109
+820,SHELL OIL PRODUCTS US,Louisiana Gulf Coast,Louisiana,NORCO,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),250000,47,110,2020,Refinery,1407,110
+820,TESORO REFINING & MARKETING CO,West Coast,Washington,ANACORTES,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),120000,17,111,2020,Refinery,1408,111
+820,Shell Oil Products US,West Coast,Washington,ANACORTES,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),149000,47,112,2020,Refinery,1435,112
+820,Silver Eagle Refining,Rocky Mountain,Wyoming,EVANSTON,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),3400,48,113,2020,Refinery,1440,113
+820,SINCLAIR WYOMING REFINING CO,Rocky Mountain,Wyoming,SINCLAIR,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),92000,35,114,2020,Refinery,1457,114
+820,SUNCOR ENERGY (USA) INC,Rocky Mountain,Colorado,COMMERCE CITY EAST,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),38700,50,116,2020,Refinery,1471,116
+820,SUNCOR ENERGY (USA) INC,Rocky Mountain,Colorado,COMMERCE CITY WEST,4,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),73000,50,117,2020,Refinery,1484,117
+820,TESORO ALASKA COMPANY LLC,West Coast,Alaska,KENAI,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),72000,17,119,2020,Refinery,1499,119
+820,TESORO REFINING & MARKETING CO,West Coast,California,CARSON,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),382000,17,120,2020,Refinery,1511,120
+820,TESORO REFINING & MARKETING CO,Minnesota-Wisconsin-North and South Dakota,North Dakota,MANDAN,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),74000,17,121,2020,Refinery,1530,121
+820,THE SAN ANTONIO REFINERY LLC,Texas Inland,Texas,SAN ANTONIO,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),21000,52,122,2020,Refinery,1544,122
+820,TORRANCE REFINING CO LLC,West Coast,California,TORRANCE,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),166200,10,123,2020,Refinery,1547,123
+820,ULTRAMAR INC,West Coast,California,WILMINGTON REFINERY,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),87000,19,124,2020,Refinery,1575,124
+820,UNITED REFINING CO,Appalachian No. 1,Pennsylvania,WARREN,1,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),70000,54,125,2020,Refinery,1576,125
+820,US OIL & REFINING CO,West Coast,Washington,TACOMA,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),42000,27,126,2020,Refinery,1592,126
+820,VALERO REF COMPANY TENNESSEE LLC,Indiana-Illinois-Kentucky,Tennessee,MEMPHIS,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),185000,19,127,2020,Refinery,1614,127
+820,VALERO REFINING - MERAUX LLC,Louisiana Gulf Coast,Louisiana,MERAUX,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),128000,19,128,2020,Refinery,1625,128
+820,VALERO REFINING CO CALIFORNIA,West Coast,California,BENICIA,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),149000,19,129,2020,Refinery,1640,129
+820,VALERO REFINING CO CALIFORNIA,West Coast,California,WILMINGTON ASPHALT PLANT,5,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),6500,19,130,2020,Refinery,1648,130
+820,VALERO REFINING CO OKLAHOMA,Oklahoma-Kansas-Missouri,Oklahoma,ARDMORE,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),88000,19,131,2020,Refinery,1666,131
+820,VALERO REFINING CO TEXAS LP,Texas Gulf Coast,Texas,TEXAS CITY,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),231000,19,132,2020,Refinery,1684,132
+820,WESTERN REFINING COMPANY LP,Texas Inland,Texas,EL PASO,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),138000,17,133,2020,Refinery,1685,133
+820,WESTERN REFINING SOUTHWEST INC,New Mexico,New Mexico,GALLUP,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),28000,17,134,2020,Refinery,1699,134
+820,WRB REFINING LP,Indiana-Illinois-Kentucky,Illinois,WOOD RIVER,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),367500,55,135,2020,Refinery,1728,135
+820,WRB REFINING LP,Texas Inland,Texas,BORGER,3,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),154000,55,136,2020,Refinery,1745,136
+820,WYNNEWOOD REFINING CO,Oklahoma-Kansas-Missouri,Oklahoma,WYNNEWOOD,2,OPERATING CAPACITY,Atmospheric Crude Distillation Capacity (barrels per stream day),78000,13,137,2020,Refinery,1746,137
+,Delek Renewables LLC,,Texas,CLEBERNE,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,1,138,2020,Biodiesel,1761,138
+,DELEK US,,Mississippi,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,1,139,2020,Biodiesel,1762,139
+,Valero Renewable Fuels Llc,,Indiana,Linden,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,19,140,2020,Ethanol,1763,140
+,Valero Renewable Fuels Llc,,Indiana,Bluffton,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,19,141,2020,Ethanol,1764,141
+,Valero Renewable Fuels Llc,,Indiana,Mt Vernon,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,19,142,2020,Ethanol,1765,142
+,Valero Renewable Fuels,,Iowa,Albert City,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,19,143,2020,Ethanol,1766,143
+,Valero Renewable Fuels Llc,,Iowa,Charles City,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,19,144,2020,Ethanol,1767,144
+,Valero Renewable Fuels Llc,,Iowa,Fort Dodge,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,19,145,2020,Ethanol,1768,145
+,Valero Renewable Fuels Llc,,Iowa,Hartley,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,19,146,2020,Ethanol,1769,146
+,Valero Renewables Fuels Llc,,Iowa,Lakota,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,19,147,2020,Ethanol,1770,147
+,Valero Renewable Fuels Llc,,Michigan,Riga,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,19,148,2020,Ethanol,1771,148
+,Valero Renewable Fuels Llc,,Minnesota,Welcome,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,19,149,2020,Ethanol,1772,149
+,Valero Renewable Fuels,,Nebraska,Albion,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,19,150,2020,Ethanol,1773,150
+,Valero Renewable Fuels Llc,,Ohio,Bloomingburg,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,19,151,2020,Ethanol,1774,151
+,Valero Renewable Fuels,,South Dakota,Aurora,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,19,152,2020,Ethanol,1775,152
+,Valero Renewable Fuels Llc,,Wisconsin,Jefferson Plant,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,19,153,2020,Ethanol,1776,153
+,Flint Hills Resources Fairbank Llc,,Iowa,Fairbank,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,24,154,2020,Ethanol,1777,154
+,Flint Hills Resources Fairmont Llc,,Nebraska,Fairmont,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,24,155,2020,Ethanol,1778,155
+,Flint Hills Resrcs Arthur Llc,,Iowa,Arthur,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,24,156,2020,Ethanol,1779,156
+,Flint Hills Resrcs Camilla Llc,,Georgia,Camilla,1,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,24,157,2020,Ethanol,1780,157
+,Flint Hills Resrcs Iowa Falls,,Iowa,Iowa Falls,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,24,158,2020,Ethanol,1781,158
+,Flint Hills Resrcs Menlo Llc,,Iowa,Menlo,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,24,159,2020,Ethanol,1782,159
+,Flint Hills Resrcs Shell Rock,,Iowa,Shell Rock,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,24,160,2020,Ethanol,1783,160
+,Absolute Energy Llc,,Iowa,St Ansgar,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,56,161,2020,Ethanol,1784,161
+,Ace Ethanol Llc,,Wisconsin,Stanley,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,57,162,2020,Ethanol,1785,162
+,Adkins Energy Llc,,Illinois,Adkins Energy,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,58,163,2020,Ethanol,1786,163
+,Adm Cedar Rapids Ia Dry Mill,,Iowa,Cedar Rapids Dry Mill,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),20,59,164,2020,Ethanol,1787,164
+,Adm Cedar Rapids Ia Wet Mill,,Iowa,Cedar Rapids Wet Mill,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),16,60,165,2020,Ethanol,1788,165
+,Adm Clinton Ia,,Iowa,Clinton,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),15,60,166,2020,Ethanol,1789,166
+,Adm Columbus Ne Dry Mill,,Nebraska,Columbus Dry Mill,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),20,60,167,2020,Ethanol,1790,167
+,Adm Columbus Ne Wet Mill,,Nebraska,Columbus Wet Mill,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,60,168,2020,Ethanol,1791,168
+,Adm Decatur Il,,Illinois,Decatur,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),24,60,169,2020,Ethanol,1792,169
+,Adm Marshall Mn,,Minnesota,Marshall,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,60,170,2020,Ethanol,1793,170
+,Adm Peoria Il,,Illinois,Peoria,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,60,171,2020,Ethanol,1794,171
+,Adrian Lva Biofuel LLC,,Michigan,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,61,172,2020,Biodiesel,1795,172
+,Aemetis Advanced Fuels Keyes Inc,,California,Keyes Plant,5,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,62,173,2020,Ethanol,1796,173
+,AG Processing - Algona,,Iowa,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),5,63,174,2020,Biodiesel,1797,174
+,AG Processing - Sgt Bluff,,Iowa,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),5,63,175,2020,Biodiesel,1798,175
+,AG Processing - St. Joseph,,Missouri,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,63,176,2020,Biodiesel,1799,176
+,Agra Resources Coop,,Minnesota,Albert Lea,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,64,177,2020,Ethanol,1800,177
+,Agri-Energy Llc,,Minnesota,Luverne,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),1,65,178,2020,Ethanol,1801,178
+,Al-Corn Clean Fuel,,Minnesota,Claremont,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,66,179,2020,Ethanol,1802,179
+,Alten Llc,,Nebraska,Alten Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),2,67,180,2020,Ethanol,1803,180
+,American Biodiesel Inc,,California,0,5,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,68,181,2020,Biodiesel,1804,181
+,American GreenFuels,,Connecticut,0,1,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,69,182,2020,Biodiesel,1805,182
+,Archer-Daniels-Midland Company,,North Dakota,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),6,60,183,2020,Biodiesel,1806,183
+,Arkalon Ethanol Llc,,Kansas,Liberal,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,70,184,2020,Ethanol,1807,184
+,Attis Ethanol Fulton Llc,,New York,Fulton,1,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,71,185,2020,Ethanol,1808,185
+,Badger State Ethanol Llc,,Wisconsin,Monroe,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),6,72,186,2020,Ethanol,1809,186
+,Big River Resources Boyceville Llc,,Wisconsin,Boyceville,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,73,187,2020,Ethanol,1810,187
+,Big River Resources Galva Llc,,Illinois,Galva,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,73,188,2020,Ethanol,1811,188
+,Big River Resources Llc,,Iowa,West Burlington,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),6,73,189,2020,Ethanol,1812,189
+,Big River United Energy Llc,,Iowa,Dyersville,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,73,190,2020,Ethanol,1813,190
+,Bioenergy Development Group LLC,,Tennessee,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,74,191,2020,Biodiesel,1814,191
+,Blue Flint Ethanol Llc,,North Dakota,Underwood,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,75,192,2020,Ethanol,1815,192
+,Bonanza Bioenergy Llc,,Kansas,Garden City,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,76,193,2020,Ethanol,1816,193
+,Bridgeport Ethanol Llc,,Nebraska,Bridgeport,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,77,194,2020,Ethanol,1817,194
+,Bushmills Ethanol Inc,,Minnesota,Atwater,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,78,195,2020,Ethanol,1818,195
+,Calgren Renewable Fuels Llc,,California,Pixley,5,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,79,196,2020,Ethanol,1819,196
+,Carbon Green Bioenergy Llc,,Michigan,Lake Odessa,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,80,197,2020,Ethanol,1820,197
+,Cardinal Ethanol Llc,,Indiana,Union City,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,81,198,2020,Ethanol,1821,198
+,Cargill Inc,,Iowa,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),4,82,199,2020,Biodiesel,1822,199
+,Cargill Inc,,Kansas,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),4,82,200,2020,Biodiesel,1823,200
+,Cargill Inc,,Iowa,Cargill Corn Milling Ft Dodge,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,83,201,2020,Ethanol,1824,201
+,Cargill Inc,,Iowa,Eddyville,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),2,83,202,2020,Ethanol,1825,202
+,Cargill Inc,,Nebraska,Blair,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),14,83,203,2020,Ethanol,1826,203
+,Ce Acquisitions Co Llc,,Ohio,Coshocton,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,84,204,2020,Ethanol,1827,204
+,Center Ethanol Co Llc,,Illinois,Sauget,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,85,205,2020,Ethanol,1828,205
+,Central Indiana Ethanol Llc,,Indiana,Marion,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,86,206,2020,Ethanol,1829,206
+,Chief Ethanol Fuels Inc,,Nebraska,Hastings,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,87,207,2020,Ethanol,1830,207
+,Chief Ethanol Fuels Inc,,Nebraska,Lexington,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,87,208,2020,Ethanol,1831,208
+,Chippewa Valley Ethanol Co Lllp,,Minnesota,Benson,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,88,209,2020,Ethanol,1832,209
+,Cincinnati Renewable Fuels LLC,,Ohio,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),5,89,210,2020,Biodiesel,1833,210
+,Commonwealth Agri-Energy Llc,,Kentucky,Hopkinsville,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,90,211,2020,Ethanol,1834,211
+,Corn Lp,,Iowa,Goldfield,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,91,212,2020,Ethanol,1835,212
+,Corn Plus,,Minnesota,Winnebago,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,92,213,2020,Ethanol,1836,213
+,Crimson Renewable Energy LP,,California,0,5,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,93,214,2020,Biodiesel,1837,214
+,Dakota Ethanol Llc,,South Dakota,Wentworth,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),6,94,215,2020,Ethanol,1838,215
+,Dakota Spirit Agenergy,,North Dakota,Spiritwood,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,95,216,2020,Ethanol,1839,216
+,Deerfield Energy LLC,,Missouri,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,96,217,2020,Biodiesel,1840,217
+,Denco Ii Llc,,Minnesota,Morris,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),2,97,218,2020,Ethanol,1841,218
+,Diamond Ethanol Llc,,Texas,Levelland,3,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,98,219,2020,Ethanol,1842,219
+,Didion Ethanol Llc,,Wisconsin,Johnson Creek,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,99,220,2020,Ethanol,1843,220
+,Duonix Beatrice LP,,Nebraska,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,100,221,2020,Biodiesel,1844,221
+,E Energy Adams Llc,,Nebraska,Adams,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,101,222,2020,Ethanol,1845,222
+,East Kansas Agri-Energy Llc,,Kansas,Garnett,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,102,223,2020,Ethanol,1846,223
+,Element Llc,,Kansas,Colwich,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,103,224,2020,Ethanol,1847,224
+,Elite Octane Llc,,Iowa,Elite Octane Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),10,104,225,2020,Ethanol,1848,225
+,Elkhorn Valley Ethanol,,Nebraska,Elkhorn,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,105,226,2020,Ethanol,1849,226
+,Fox River Valley Ethanol Llc,,Wisconsin,Fox River Valley Ethanol Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,106,227,2020,Ethanol,1850,227
+,Front Range Energy Llc,,Colorado,Windsor,4,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,107,228,2020,Ethanol,1851,228
+,Futurefuel Chemical Company,,Arkansas,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),4,108,229,2020,Biodiesel,1852,229
+,Glacial Lakes Energy Llc,,South Dakota,Mina,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),11,109,230,2020,Ethanol,1853,230
+,Glacial Lakes Energy Llc,,South Dakota,Glacial Lakes,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),10,109,231,2020,Ethanol,1854,231
+,Global Alternative Fuels LLC,,Texas,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,110,232,2020,Biodiesel,1855,232
+,Golden Grain Energy Llc,,Iowa,Mason City,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,111,233,2020,Ethanol,1856,233
+,Golden Triangle Energy Llc,,Missouri,Golden Triangle Energy Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),1,112,234,2020,Ethanol,1857,234
+,Grain Processing Corp,,Indiana,Washington,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),2,113,235,2020,Ethanol,1858,235
+,Grain Processing Corp,,Iowa,Muscatine,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,113,236,2020,Ethanol,1859,236
+,Granite Falls Energy Llc,,Minnesota,Granite Falls,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,114,237,2020,Ethanol,1860,237
+,Great Plains Ethanol Llc,,South Dakota,Chancellor,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,115,238,2020,Ethanol,1861,238
+,Green Plains Atkinson,,Nebraska,Green Plains Atkinson,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,115,239,2020,Ethanol,1862,239
+,Green Plains Central City Llc,,Nebraska,Central City,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,115,240,2020,Ethanol,1863,240
+,Green Plains Fairmont Llc,,Minnesota,Fairmont,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,115,241,2020,Ethanol,1864,241
+,Green Plains Inc,,Iowa,Green Plains Shenandoah Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,115,242,2020,Ethanol,1865,242
+,Green Plains Madison Llc,,Illinois,Green Plains Madison,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),6,115,243,2020,Ethanol,1866,243
+,Green Plains Mount Vernon Llc,,Indiana,Green Plains Mount Vernon Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),6,115,244,2020,Ethanol,1867,244
+,Green Plains Obion Llc,,Tennessee,Green Plains Obion,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,115,245,2020,Ethanol,1868,245
+,Green Plains Ord Llc,,Nebraska,Ord,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,115,246,2020,Ethanol,1869,246
+,Green Plains Otter Tail Llc,,Minnesota,Fergus Falls,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,115,247,2020,Ethanol,1870,247
+,Green Plains Superior Llc,,Iowa,Green Plains Superior Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,115,248,2020,Ethanol,1871,248
+,Green Plains Wood River Llc,,Nebraska,Wood River,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,115,249,2020,Ethanol,1872,249
+,Green Plains York Llc,,Nebraska,Green Plains York Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,115,250,2020,Ethanol,1873,250
+,Guardian Energy Llc,,Minnesota,Janesville,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),10,116,251,2020,Ethanol,1874,251
+,Guardian Lima Llc,,Ohio,Lima,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,117,252,2020,Ethanol,1875,252
+,Hankinson Renewable Energy Llc,,North Dakota,Hankinson Renewable Energy,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,118,253,2020,Ethanol,1876,253
+,Heartland Corn Products,,Minnesota,Heartland,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,119,254,2020,Ethanol,1877,254
+,Hereford Renewable Energy Llc,,Texas,Hereford,3,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,120,255,2020,Ethanol,1878,255
+,Hero Bx Alabama LLC,,Alabama,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,121,256,2020,Biodiesel,1879,256
+,Heron Lake Bioenergy Llc,,Minnesota,Heron Lake,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,122,257,2020,Ethanol,1880,257
+,Highwater Ethanol Llc,,Minnesota,Highwater,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,123,258,2020,Ethanol,1881,258
+,Homeland Energy Solutions Llc,,Iowa,Lawler,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,124,259,2020,Ethanol,1882,259
+,Hub City Energy Llc,,South Dakota,Aberdeen Ii,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,125,260,2020,Ethanol,1883,260
+,Huron Energy Llc,,South Dakota,Huron,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),2,126,261,2020,Ethanol,1884,261
+,Husker Ag Llc,,Nebraska,Plainview,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),6,127,262,2020,Ethanol,1885,262
+,Icm Biofuels Llc,,Missouri,Saint Joseph,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,128,263,2020,Ethanol,1886,263
+,Illinois Corn Processing Llc,,Illinois,Pekin,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,129,264,2020,Ethanol,1887,264
+,Illinois River Energy Llc,,Illinois,Chs Rochelle,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,130,265,2020,Ethanol,1888,265
+,Imperial Western Products Inc,,California,0,5,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,131,266,2020,Biodiesel,1889,266
+,Incobrasa Industries Ltd,,Illinois,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,132,267,2020,Biodiesel,1890,267
+,Ingredion Inc,,Iowa,Ingredion,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,133,268,2020,Ethanol,1891,268
+,Iowa Renewable Energy LLC,,Iowa,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,134,269,2020,Biodiesel,1892,269
+,Iroquois Bio-Energy Co Llc,,Indiana,Rensselaer,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,135,270,2020,Ethanol,1893,270
+,James Valley Ethanol Llc,,South Dakota,Groton,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,136,271,2020,Ethanol,1894,271
+,Kaapa Ethanol Llc,,Nebraska,Minden,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),6,137,272,2020,Ethanol,1895,272
+,Kaapa Ethanol Ravenna Llc,,Nebraska,Kaapa Ethanol Ravenna Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,137,273,2020,Ethanol,1896,273
+,Kansas Ethanol Llc,,Kansas,Kansas Ethanol Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,138,274,2020,Ethanol,1897,274
+,Lake Erie Biofuels LLC,,Pennsylvania,0,1,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,139,275,2020,Biodiesel,1898,275
+,Lakeview Biodiesel LLC,,Missouri,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,140,276,2020,Biodiesel,1899,276
+,Lincolnland Agri-Energy Llc,,Illinois,Palestine,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,141,277,2020,Ethanol,1900,277
+,Lincolnway Energy Llc,,Iowa,Nevada,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,141,278,2020,Ethanol,1901,278
+,Little Sioux Corn Processors Lllp,,Iowa,Little Sioux,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),11,142,279,2020,Ethanol,1902,279
+,Louis Dreyfus Agricultural Industries LLC,,Indiana,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),6,143,280,2020,Biodiesel,1903,280
+,Louis Dreyfus Co,,Iowa,Grand Junction,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,143,281,2020,Ethanol,1904,281
+,Lva Crawfordsville Biofuel LLC,,Iowa,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,144,282,2020,Biodiesel,1905,282
+,Marquis Energy Llc,,Illinois,Hennepin,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),22,145,283,2020,Ethanol,1906,283
+,Marquis Energy-Wisconsin Llc,,Wisconsin,Necedah,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,145,284,2020,Ethanol,1907,284
+,Marysville Ethanol Llc,,Michigan,Marysville,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,146,285,2020,Ethanol,1908,285
+,Mgp Ingredients Inc,,Kansas,Atchison,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),1,147,286,2020,Ethanol,1909,286
+,Mid America Agri Products Llc,,Nebraska,Madrid,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,148,287,2020,Ethanol,1910,287
+,"Mid-America Biofuels, LLC",,Missouri,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,149,288,2020,Biodiesel,1911,288
+,Mid-Missouri Energy Llc,,Missouri,Malta Bend,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,150,289,2020,Ethanol,1912,289
+,Midwest Renewable Energy Llc,,Nebraska,Sutherland,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),2,151,290,2020,Ethanol,1913,290
+,Minnesota Soybean Processors,,Minnesota,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,152,291,2020,Biodiesel,1914,291
+,Nebraska Corn Processing Llc,,Nebraska,Ncp,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,153,292,2020,Ethanol,1915,292
+,Nesika Energy Llc,,Kansas,Nesika Energy Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),1,154,293,2020,Ethanol,1916,293
+,Northeast Missouri Grain Llc,,Missouri,Macon,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,155,294,2020,Ethanol,1917,294
+,Northern Lights Ethanol Llc,,South Dakota,Big Stone,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),6,156,295,2020,Ethanol,1918,295
+,Nugen Energy Llc,,South Dakota,Marion,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),10,157,296,2020,Ethanol,1919,296
+,One Earth Energy Llc,,Illinois,One Earth,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),10,158,297,2020,Ethanol,1920,297
+,Otter Creek Ethanol,,Iowa,Ashton,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,159,298,2020,Ethanol,1921,298
+,Owensboro Grain Biodiesel LLC,,Kentucky,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),4,160,299,2020,Biodiesel,1922,299
+,Pacific Ethanol Aurora East Llc,,Nebraska,Aurora,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,161,300,2020,Ethanol,1923,300
+,Pacific Ethanol Aurora West Llc,,Nebraska,Aurora,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,161,301,2020,Ethanol,1924,301
+,Pacific Ethanol Columbia Llc,,Oregon,Columbia,5,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,161,302,2020,Ethanol,1925,302
+,Pacific Ethanol Madera Llc,,California,Madera,5,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,161,303,2020,Ethanol,1926,303
+,Pacific Ethanol Magic Valley Llc,,Idaho,Magic Valley,4,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,161,304,2020,Ethanol,1927,304
+,Pacific Ethanol Pekin Llc,,Illinois,Pekin,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),10,161,305,2020,Ethanol,1928,305
+,Pacific Ethanol Stockton Llc,,California,Stockton,5,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,161,306,2020,Ethanol,1929,306
+,Paseo Cargill Energy LLC,,Missouri,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),4,162,307,2020,Biodiesel,1930,307
+,Patriot Renewable Fuels Llc,,Illinois,Annawan,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,163,308,2020,Ethanol,1931,308
+,Pennsylvania Grain Prcsg Llc,,Pennsylvania,Pgp,1,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,164,309,2020,Ethanol,1932,309
+,Pinal Energy Llc,,Arizona,Maricopa,5,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,165,310,2020,Ethanol,1933,310
+,Pine Lake Corn Processors,,Iowa,Pine Lake,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,166,311,2020,Ethanol,1934,311
+,Plainview Bioenergy Llc,,Texas,Plainview Bioenergy Llc,3,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,167,312,2020,Ethanol,1935,312
+,Plymouth Energy Llc,,Iowa,Merrill,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,168,313,2020,Ethanol,1936,313
+,Poet Biorefining - Alexandria Llc,,Indiana,Alexandria,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,314,2020,Ethanol,1937,314
+,Poet Biorefining - Bingham Lake Llc,,Minnesota,Ethanol2000,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),2,169,315,2020,Ethanol,1938,315
+,Poet Biorefining - Leipsic Llc,,Ohio,Leipsic,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,316,2020,Ethanol,1939,316
+,Poet Biorefining - Mitchell Llc,,South Dakota,Mitchell,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,317,2020,Ethanol,1940,317
+,Poet Biorefining - North Manches,,Indiana,North Manchester,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,318,2020,Ethanol,1941,318
+,Poet Biorefining - Portland Llc,,Indiana,Portland,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,319,2020,Ethanol,1942,319
+,Poet Biorefining Caro Llc,,Michigan,Caro,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,320,2020,Ethanol,1943,320
+,Poet Biorefining Corning Llc,,Iowa,Corning,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,321,2020,Ethanol,1944,321
+,Poet Biorefining Gowrie Llc,,Iowa,Gowrie,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,322,2020,Ethanol,1945,322
+,Poet Biorefining Hanlontown Llc,,Iowa,Hanlontown,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,323,2020,Ethanol,1946,323
+,Poet Biorefining Jewell Llc,,Iowa,Jewell,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,324,2020,Ethanol,1947,324
+,Poet Biorefining Laddonia Llc,,Missouri,Laddonia,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,169,325,2020,Ethanol,1948,325
+,Poet Biorefining Lake Crystal Llc,,Minnesota,Lake Crystal,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,326,2020,Ethanol,1949,326
+,Poet Biorefining-Cloverdale,,Indiana,Poet Biorefining-Cloverdale,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),6,169,327,2020,Ethanol,1950,327
+,Poet Biorefining-Coon Rapids,,Iowa,Coon Rapids,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,169,328,2020,Ethanol,1951,328
+,Poet Biorefining-Emmetsburg Llc,,Iowa,Emmetsburg,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,169,329,2020,Ethanol,1952,329
+,Poet Biorefining-Fostoria Llc,,Ohio,Fostoria,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,169,330,2020,Ethanol,1953,330
+,Poet Biorefining-Marion Llc,,Ohio,Marion,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),10,169,331,2020,Ethanol,1954,331
+,Poet Research Center,,South Dakota,Poet Research Center,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),1,170,332,2020,Ethanol,1955,332
+,Prairie Horizon Agri Enrgy Llc,,Kansas,Prairie,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,171,333,2020,Ethanol,1956,333
+,Pratt Energy Llc,,Kansas,Pratt,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,172,334,2020,Ethanol,1957,334
+,Pro Corn Llc,,Minnesota,Preston Mn,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,173,335,2020,Ethanol,1958,335
+,Purefield Ingredients Llc,,Kansas,Russell,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,174,336,2020,Ethanol,1959,336
+,Quad Cnty Corn Processors Coop,,Iowa,Quad,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),2,175,337,2020,Ethanol,1960,337
+,Rbf Port Neches LLC,,Texas,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),12,176,338,2020,Biodiesel,1961,338
+,Red River Energy Llc,,South Dakota,Red River Energy Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),2,177,339,2020,Ethanol,1962,339
+,Red Trail Energy Llc,,North Dakota,Red Trail,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,178,340,2020,Ethanol,1963,340
+,Redfield Energy Llc,,South Dakota,Redfield,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,179,341,2020,Ethanol,1964,341
+,Reeve Agri Energy Inc,,Kansas,Reeve Agri Energy Inc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),1,180,342,2020,Ethanol,1965,342
+,Reg - Albert Lea,,Minnesota,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,181,343,2020,Biodiesel,1966,343
+,REG - Danville,,Illinois,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,181,344,2020,Biodiesel,1967,344
+,REG - Grays Harbor,,Washington,0,5,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),7,181,345,2020,Biodiesel,1968,345
+,REG - Houston,,Texas,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,181,346,2020,Biodiesel,1969,346
+,REG - Madison,,Wisconsin,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,181,347,2020,Biodiesel,1970,347
+,Reg - Mason City,,Iowa,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,181,348,2020,Biodiesel,1971,348
+,REG - Newton,,Iowa,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,181,349,2020,Biodiesel,1972,349
+,REG - Ralston,,Iowa,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,181,350,2020,Biodiesel,1973,350
+,REG - Seneca,,Illinois,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),5,181,351,2020,Biodiesel,1974,351
+,Ringneck Energy & Feed Llc,,South Dakota,Onida,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,182,352,2020,Ethanol,1975,352
+,Sabine Biofuels II LLC,,Texas,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,183,353,2020,Biodiesel,1976,353
+,Scott Petroleum Corporation,,Mississippi,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,184,354,2020,Biodiesel,1977,354
+,Seaboard Energy Marketing Inc,,Oklahoma,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,185,355,2020,Biodiesel,1978,355
+,Seaboard Energy Marketing St Joseph,,Missouri,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,185,356,2020,Biodiesel,1979,356
+,Sequential-Pacific Biodiesel LLC,,Oregon,0,5,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,186,357,2020,Biodiesel,1980,357
+,Show Me Ethanol,,Missouri,Show Me,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,187,358,2020,Ethanol,1981,358
+,Sioux River Ethanol,,South Dakota,Sioux River,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,188,359,2020,Ethanol,1982,359
+,Siouxland Energy & Livestock Co-Op,,Iowa,Sioux Center,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,189,360,2020,Ethanol,1983,360
+,Siouxland Ethanol Llc,,Nebraska,Jackson,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),5,189,361,2020,Ethanol,1984,361
+,Solfuels USA LLC,,Arkansas,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,190,362,2020,Biodiesel,1985,362
+,South Bend Ethanol Llc,,Indiana,South Bend,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,191,363,2020,Ethanol,1986,363
+,Southwest Iowa Renewable,,Iowa,Council Bluffs,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,192,364,2020,Ethanol,1987,364
+,Sterling Ethanol Llc,,Colorado,Sterling,4,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,193,365,2020,Ethanol,1988,365
+,Tate & Lyle,,Tennessee,Loudon,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),7,194,366,2020,Ethanol,1989,366
+,Tharaldson Ethanol,,North Dakota,Casselton,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),11,195,367,2020,Ethanol,1990,367
+,The Andersons Marathon Holdings Llc,,Indiana,Clymers,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,196,368,2020,Ethanol,1991,368
+,The Andersons Marathon Holdings Llc,,Iowa,Denison,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,196,369,2020,Ethanol,1992,369
+,The Andersons Marathon Holdings Llc,,Michigan,Albion,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),9,196,370,2020,Ethanol,1993,370
+,The Andersons Marathon Holdings Llc,,Ohio,Greenville,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,196,371,2020,Ethanol,1994,371
+,Trenton Agri Products Llc,,Nebraska,Trenton Agri Products Llc,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,197,372,2020,Ethanol,1995,372
+,Tyton Nc Biofuels Llc,,North Carolina,Raeford,1,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,198,373,2020,Ethanol,1996,373
+,United Ethanol Llc,,Wisconsin,Milton,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,199,374,2020,Ethanol,1997,374
+,United Wisconsin Grain Producers Llc,,Wisconsin,Friesland,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,200,375,2020,Ethanol,1998,375
+,Western Dubuque Biodiesel LLC,,Iowa,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),2,201,376,2020,Biodiesel,1999,376
+,Western Iowa Energy LLC,,Iowa,0,2,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,202,377,2020,Biodiesel,2000,377
+,Western New York Energy Llc,,New York,Medina,1,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),4,203,378,2020,Ethanol,2001,378
+,Western Plains Energy Llc,,Kansas,Western Plains,2,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,204,379,2020,Ethanol,2002,379
+,White Energy Hereford Llc,,Texas,White Energy Hereford Llc,3,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),8,205,380,2020,Ethanol,2003,380
+,WIE-Agron BioEnergy,,California,0,5,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,206,381,2020,Biodiesel,2004,381
+,World Energy Biox Biofuels LLC,,Texas,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),6,207,382,2020,Biodiesel,2005,382
+,World Energy Harrisburg LLC,,Pennsylvania,0,1,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),3,207,383,2020,Biodiesel,2006,383
+,World Energy Natchez LLC,,Mississippi,0,3,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),5,207,384,2020,Biodiesel,2007,384
+,World Energy Rome,,Georgia,0,1,OPERATING CAPACITY,Biodiesel Production Capacity (barrels per stream day),1,207,385,2020,Biodiesel,2008,385
+,Yuma Ethanol Llc,,Colorado,Yuma,4,OPERATING CAPACITY,Ethanol Production Capacity (barrels per stream day),3,208,386,2020,Ethanol,2009,386
