@@ -2,7 +2,7 @@ class StocksController < ApplicationController
   def index
     matching_stocks = Stock.all
 
-    @list_of_stocks = matching_stocks.order({ :created_at => :desc })
+    @list_of_stocks = matching_stocks.order({ :created_at => :asc })
 
     render({ :template => "stocks/index.html.erb" })
   end

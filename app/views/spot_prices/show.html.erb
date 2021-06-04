@@ -1,0 +1,236 @@
+<div>
+  <div>
+    <h1>
+      Spot price #<%= @the_spot_price.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/spot_prices">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_spot_price/<%= @the_spot_price.id %>">
+          Delete spot price
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        Date
+      </dt>
+      <dd>
+        <%= @the_spot_price.date %>
+      </dd>
+
+      <dt>
+        Wti
+      </dt>
+      <dd>
+        <%= @the_spot_price.wti %>
+      </dd>
+
+      <dt>
+        Brent
+      </dt>
+      <dd>
+        <%= @the_spot_price.brent %>
+      </dd>
+
+      <dt>
+        Nyh conv
+      </dt>
+      <dd>
+        <%= @the_spot_price.nyh_conv %>
+      </dd>
+
+      <dt>
+        Usgc conv
+      </dt>
+      <dd>
+        <%= @the_spot_price.usgc_conv %>
+      </dd>
+
+      <dt>
+        Rbob
+      </dt>
+      <dd>
+        <%= @the_spot_price.rbob %>
+      </dd>
+
+      <dt>
+        No 2 heating oil
+      </dt>
+      <dd>
+        <%= @the_spot_price.no_2_heating_oil %>
+      </dd>
+
+      <dt>
+        Nyh usld
+      </dt>
+      <dd>
+        <%= @the_spot_price.nyh_usld %>
+      </dd>
+
+      <dt>
+        Usgc usld
+      </dt>
+      <dd>
+        <%= @the_spot_price.usgc_usld %>
+      </dd>
+
+      <dt>
+        La usld
+      </dt>
+      <dd>
+        <%= @the_spot_price.la_usld %>
+      </dd>
+
+      <dt>
+        Usgc kero
+      </dt>
+      <dd>
+        <%= @the_spot_price.usgc_kero %>
+      </dd>
+
+      <dt>
+        Mv propane
+      </dt>
+      <dd>
+        <%= @the_spot_price.mv_propane %>
+      </dd>
+
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_spot_price.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_spot_price.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit spot price
+    </h2>
+
+    <form action="/modify_spot_price/<%= @the_spot_price.id %>"  method="post" >
+      <div>
+        <label for="date_box">
+          Date
+        </label>
+
+        <input type="date" id="date_box" name="query_date" value="<%= @the_spot_price.date %>">
+      </div>
+
+      <div>
+        <label for="wti_box">
+          Wti
+        </label>
+
+        <input type="text" id="wti_box" name="query_wti" value="<%= @the_spot_price.wti %>">
+      </div>
+
+      <div>
+        <label for="brent_box">
+          Brent
+        </label>
+
+        <input type="text" id="brent_box" name="query_brent" value="<%= @the_spot_price.brent %>">
+      </div>
+
+      <div>
+        <label for="nyh_conv_box">
+          Nyh conv
+        </label>
+
+        <input type="text" id="nyh_conv_box" name="query_nyh_conv" value="<%= @the_spot_price.nyh_conv %>">
+      </div>
+
+      <div>
+        <label for="usgc_conv_box">
+          Usgc conv
+        </label>
+
+        <input type="text" id="usgc_conv_box" name="query_usgc_conv" value="<%= @the_spot_price.usgc_conv %>">
+      </div>
+
+      <div>
+        <label for="rbob_box">
+          Rbob
+        </label>
+
+        <input type="text" id="rbob_box" name="query_rbob" value="<%= @the_spot_price.rbob %>">
+      </div>
+
+      <div>
+        <label for="no_2_heating_oil_box">
+          No 2 heating oil
+        </label>
+
+        <input type="text" id="no_2_heating_oil_box" name="query_no_2_heating_oil" value="<%= @the_spot_price.no_2_heating_oil %>">
+      </div>
+
+      <div>
+        <label for="nyh_usld_box">
+          Nyh usld
+        </label>
+
+        <input type="text" id="nyh_usld_box" name="query_nyh_usld" value="<%= @the_spot_price.nyh_usld %>">
+      </div>
+
+      <div>
+        <label for="usgc_usld_box">
+          Usgc usld
+        </label>
+
+        <input type="text" id="usgc_usld_box" name="query_usgc_usld" value="<%= @the_spot_price.usgc_usld %>">
+      </div>
+
+      <div>
+        <label for="la_usld_box">
+          La usld
+        </label>
+
+        <input type="text" id="la_usld_box" name="query_la_usld" value="<%= @the_spot_price.la_usld %>">
+      </div>
+
+      <div>
+        <label for="usgc_kero_box">
+          Usgc kero
+        </label>
+
+        <input type="text" id="usgc_kero_box" name="query_usgc_kero" value="<%= @the_spot_price.usgc_kero %>">
+      </div>
+
+      <div>
+        <label for="mv_propane_box">
+          Mv propane
+        </label>
+
+        <input type="text" id="mv_propane_box" name="query_mv_propane" value="<%= @the_spot_price.mv_propane %>">
+      </div>
+
+      <button>
+        Update spot price
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>

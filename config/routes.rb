@@ -1,5 +1,24 @@
 Rails.application.routes.draw do
 
+  # Routes for the Spot price resource:
+
+  # CREATE
+  post("/insert_spot_price", { :controller => "spot_prices", :action => "create" })
+          
+  # READ
+  get("/spot_prices", { :controller => "spot_prices", :action => "index" })
+  
+  get("/spot_prices/:path_id", { :controller => "spot_prices", :action => "show" })
+  
+  # UPDATE
+  
+  post("/modify_spot_price/:path_id", { :controller => "spot_prices", :action => "update" })
+  
+  # DELETE
+  get("/delete_spot_price/:path_id", { :controller => "spot_prices", :action => "destroy" })
+
+  #------------------------------
+
   # Routes for the Stock resource:
 
   # CREATE

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_06_04_115544) do
+ActiveRecord::Schema.define(version: 2021_06_04_202646) do
 
   create_table "companies", force: :cascade do |t|
     t.string "name"
@@ -44,6 +44,23 @@ ActiveRecord::Schema.define(version: 2021_06_04_115544) do
   end
 
   create_table "padds", force: :cascade do |t|
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "spot_prices", force: :cascade do |t|
+    t.date "date"
+    t.float "wti"
+    t.float "brent"
+    t.float "nyh_conv"
+    t.float "usgc_conv"
+    t.float "rbob"
+    t.float "no_2_heating_oil"
+    t.float "nyh_usld"
+    t.float "usgc_usld"
+    t.float "la_usld"
+    t.float "usgc_kero"
+    t.float "mv_propane"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

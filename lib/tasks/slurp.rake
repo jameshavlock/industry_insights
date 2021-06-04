@@ -3,11 +3,11 @@
 
 # namespace :slurp do
 #   desc "TODO"
-#   task stocks: :environment do
+#   task spot_price: :environment do
 
 #         require "csv"
 
-#         csv_text = File.read(Rails.root.join("lib", "csvs", "stocks.csv"))
+#         csv_text = File.read(Rails.root.join("lib", "csvs", "spot_price.csv"))
 #         puts csv_text
 #   end
 
@@ -20,11 +20,11 @@
 
 # namespace :slurp do
 #   desc "TODO"
-#   task stocks: :environment do
+#   task spot_price: :environment do
 
 #       require "csv"
 
-#       csv_text = File.read(Rails.root.join("lib", "csvs", "stocks.csv"))
+#       csv_text = File.read(Rails.root.join("lib", "csvs", "spot_price.csv"))
 #       csv = CSV.parse(csv_text, :headers => true, :encoding => "ISO-8859-1")
 #       puts csv
 #   end
@@ -36,11 +36,11 @@
 
 # namespace :slurp do
 #   desc "TODO"
-#   task stocks: :environment do
+#   task spot_price: :environment do
 
 #       require "csv"
 
-#       csv_text = File.read(Rails.root.join("lib", "csvs", "stocks.csv"))
+#       csv_text = File.read(Rails.root.join("lib", "csvs", "spot_price.csv"))
 #       csv = CSV.parse(csv_text, :headers => true, :encoding => "ISO-8859-1")
 #       csv.each do |row|
 #         puts row.to_hash
@@ -54,36 +54,42 @@
 
 namespace :slurp do
   desc "TODO"
-  task stocks: :environment do
+  task spot_price: :environment do
         require "csv"
 
-        csv_text = File.read(Rails.root.join("lib", "csvs", "stocks.csv"))
+        csv_text = File.read(Rails.root.join("lib", "csvs", "spot_price.csv"))
         csv = CSV.parse(csv_text, :headers => true, :encoding => "ISO-8859-1")
         p csv.count
         csv.each do |row|
-           t = Stock.new
+           t = SpotPrice.new
           
-          # p row = csv[100]
+          # p row = csv[10]
 
-            t.all_products = row["all_products"]
-            t.crude = row["crude"]
-            t.total_gasoline = row["total_gasoline"]
-            t.kero = row["kero"]
-            t.diesel = row["diesel"]
-           t.resid = row["resid"]
-           t.date = Date.strptime(row[csv.headers[7]],"%x")
-            # p date2 = Date.strptime(row["date"])
-          # p date = row[csv.headers.first]
+            t.date = row["date"]
+            t.wti = row["wti"]
+            t.brent = row["brent"]
+            t.nyh_conv = row["nyh_conv"]
+            t.usgc_conv = row["usgc_conv"]
+             t.rbob = row["rbob"]
+           t.no_2_heating_oil = row["no_2_heating_oil"]
+           t.nyh_usld = row["nyh_usld"]
+           t.usgc_usld = row["usgc_usld"]
+           t.la_usld = row["la_usld"]
+           t.usgc_kero = row["usgc_kero"]
+           t.mv_propane = row["mv_propane"]
+           t.date = Date.strptime(row[csv.headers[0]],"%x")
+          # p date2 = Date.strptime(row["date"],"%x")
+          
 
 
 
 
             t.save
-           puts "#{t.all_products}, #{t.crude}, #{t.total_gasoline}, #{t.kero}, #{t.diesel}, #{t.resid}, #{t.date} saved"
+           puts "#{t.mv_propane}, #{t.wti}, #{t.brent}, #{t.nyh_conv}, #{t.usgc_conv}, #{t.rbob}, #{t.date} saved"
             # puts " #{t.resid}, #{t.date} saved"
          end
 
-        # puts "There are now #{Throughput.count} rows in the stocks table"
+        # puts "There are now #{Throughput.count} rows in the spot_price table"
   end
 
 end
