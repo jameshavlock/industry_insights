@@ -63,21 +63,24 @@ namespace :slurp do
         csv.each do |row|
            t = Stock.new
           
+          # p row = csv[100]
 
-          #  t.all_products = row["all_products"]
-          #  t.crude = row["crude"]
-          #  t.total_gasoline = row["total_gasoline"]
-          #  t.kero = row["kero"]
-          #  t.diesel = row["diesel"]
-          #  t.resid = row["resid"]
-           p date = Date.strptime(row[csv.headers[7]],%x)
+            t.all_products = row["all_products"]
+            t.crude = row["crude"]
+            t.total_gasoline = row["total_gasoline"]
+            t.kero = row["kero"]
+            t.diesel = row["diesel"]
+           t.resid = row["resid"]
+           t.date = Date.strptime(row[csv.headers[7]],"%x")
+            # p date2 = Date.strptime(row["date"])
           # p date = row[csv.headers.first]
 
 
 
 
-            # t.save
+            t.save
            puts "#{t.all_products}, #{t.crude}, #{t.total_gasoline}, #{t.kero}, #{t.diesel}, #{t.resid}, #{t.date} saved"
+            # puts " #{t.resid}, #{t.date} saved"
          end
 
         # puts "There are now #{Throughput.count} rows in the stocks table"
