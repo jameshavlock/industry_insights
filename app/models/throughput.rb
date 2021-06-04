@@ -12,4 +12,8 @@
 #  facility_id    :integer
 #
 class Throughput < ApplicationRecord
+
+  belongs_to(:facility, { :required => false, :class_name => "Facility", :foreign_key => "facility_id" })
+  
+
 end

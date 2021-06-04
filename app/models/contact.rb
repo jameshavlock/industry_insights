@@ -13,4 +13,9 @@
 #  facility_id :integer
 #
 class Contact < ApplicationRecord
+
+
+
+
+
 end
