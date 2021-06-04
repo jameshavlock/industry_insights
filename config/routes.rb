@@ -1,6 +1,25 @@
 Rails.application.routes.draw do
 
+  # Routes for the Stock resource:
 
+  # CREATE
+  post("/insert_stock", { :controller => "stocks", :action => "create" })
+          
+  # READ
+  get("/stocks", { :controller => "stocks", :action => "index" })
+  
+  get("/stocks/:path_id", { :controller => "stocks", :action => "show" })
+  
+  # UPDATE
+  
+  post("/modify_stock/:path_id", { :controller => "stocks", :action => "update" })
+  
+  # DELETE
+  get("/delete_stock/:path_id", { :controller => "stocks", :action => "destroy" })
+
+  #------------------------------
+
+  get("/", { :controller => "companies", :action => "index" })
 
   # Routes for the Facility resource:
 

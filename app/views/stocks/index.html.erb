@@ -1,0 +1,182 @@
+<div>
+  <div>
+    <h1>
+      List of all stocks
+    </h1>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h2>
+      Add a new stock
+    </h2>
+
+    <form action="/insert_stock" method="post">
+      <div>
+        <label for="all_products_box">
+          All products
+        </label>
+
+        <input type="text" id="all_products_box" name="query_all_products">
+      </div>
+
+      <div>
+        <label for="crude_box">
+          Crude
+        </label>
+
+        <input type="text" id="crude_box" name="query_crude">
+      </div>
+
+      <div>
+        <label for="total_gasoline_box">
+          Total gasoline
+        </label>
+
+        <input type="text" id="total_gasoline_box" name="query_total_gasoline">
+      </div>
+
+      <div>
+        <label for="kero_box">
+          Kero
+        </label>
+
+        <input type="text" id="kero_box" name="query_kero">
+      </div>
+
+      <div>
+        <label for="diesel_box">
+          Diesel
+        </label>
+
+        <input type="text" id="diesel_box" name="query_diesel">
+      </div>
+
+      <div>
+        <label for="resid_box">
+          Resid
+        </label>
+
+        <input type="text" id="resid_box" name="query_resid">
+      </div>
+
+      <div>
+        <label for="date_box">
+          Date
+        </label>
+
+        <input type="date" id="date_box" name="query_date">
+      </div>
+
+      <button>
+        Create stock
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          ID
+        </th>
+
+        <th>
+          All products
+        </th>
+
+        <th>
+          Crude
+        </th>
+
+        <th>
+          Total gasoline
+        </th>
+
+        <th>
+          Kero
+        </th>
+
+        <th>
+          Diesel
+        </th>
+
+        <th>
+          Resid
+        </th>
+
+        <th>
+          Date
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_stocks.each do |a_stock| %>
+      <tr>
+        <td>
+          <%= a_stock.id %>
+        </td>
+
+        <td>
+          <%= a_stock.all_products %>
+        </td>
+
+        <td>
+          <%= a_stock.crude %>
+        </td>
+
+        <td>
+          <%= a_stock.total_gasoline %>
+        </td>
+
+        <td>
+          <%= a_stock.kero %>
+        </td>
+
+        <td>
+          <%= a_stock.diesel %>
+        </td>
+
+        <td>
+          <%= a_stock.resid %>
+        </td>
+
+        <td>
+          <%= a_stock.date %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(a_stock.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(a_stock.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/stocks/<%= a_stock.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>

@@ -1,0 +1,161 @@
+<div>
+  <div>
+    <h1>
+      Stock #<%= @the_stock.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/stocks">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_stock/<%= @the_stock.id %>">
+          Delete stock
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        All products
+      </dt>
+      <dd>
+        <%= @the_stock.all_products %>
+      </dd>
+
+      <dt>
+        Crude
+      </dt>
+      <dd>
+        <%= @the_stock.crude %>
+      </dd>
+
+      <dt>
+        Total gasoline
+      </dt>
+      <dd>
+        <%= @the_stock.total_gasoline %>
+      </dd>
+
+      <dt>
+        Kero
+      </dt>
+      <dd>
+        <%= @the_stock.kero %>
+      </dd>
+
+      <dt>
+        Diesel
+      </dt>
+      <dd>
+        <%= @the_stock.diesel %>
+      </dd>
+
+      <dt>
+        Resid
+      </dt>
+      <dd>
+        <%= @the_stock.resid %>
+      </dd>
+
+      <dt>
+        Date
+      </dt>
+      <dd>
+        <%= @the_stock.date %>
+      </dd>
+
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_stock.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_stock.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit stock
+    </h2>
+
+    <form action="/modify_stock/<%= @the_stock.id %>"  method="post" >
+      <div>
+        <label for="all_products_box">
+          All products
+        </label>
+
+        <input type="text" id="all_products_box" name="query_all_products" value="<%= @the_stock.all_products %>">
+      </div>
+
+      <div>
+        <label for="crude_box">
+          Crude
+        </label>
+
+        <input type="text" id="crude_box" name="query_crude" value="<%= @the_stock.crude %>">
+      </div>
+
+      <div>
+        <label for="total_gasoline_box">
+          Total gasoline
+        </label>
+
+        <input type="text" id="total_gasoline_box" name="query_total_gasoline" value="<%= @the_stock.total_gasoline %>">
+      </div>
+
+      <div>
+        <label for="kero_box">
+          Kero
+        </label>
+
+        <input type="text" id="kero_box" name="query_kero" value="<%= @the_stock.kero %>">
+      </div>
+
+      <div>
+        <label for="diesel_box">
+          Diesel
+        </label>
+
+        <input type="text" id="diesel_box" name="query_diesel" value="<%= @the_stock.diesel %>">
+      </div>
+
+      <div>
+        <label for="resid_box">
+          Resid
+        </label>
+
+        <input type="text" id="resid_box" name="query_resid" value="<%= @the_stock.resid %>">
+      </div>
+
+      <div>
+        <label for="date_box">
+          Date
+        </label>
+
+        <input type="date" id="date_box" name="query_date" value="<%= @the_stock.date %>">
+      </div>
+
+      <button>
+        Update stock
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
