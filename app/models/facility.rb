@@ -14,4 +14,13 @@
 #  throughput_id :integer
 #
 class Facility < ApplicationRecord
+
+  belongs_to(:throughput, { :required => false, :class_name => "Company", :foreign_key => "throughput_id" })
+
+  belongs_to(:company, { :required => false, :class_name => "Padd", :foreign_key => "company_id" })
+
+  has_many(:throughputs, { :class_name => "Throughput", :foreign_key => "facility_id", :dependent => :destroy })
+
+  has_many(:contacts, { :class_name => "Contact", :foreign_key => "facility_id", :dependent => :destroy })
+
 end

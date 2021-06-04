@@ -14,7 +14,9 @@
 #
 class Contact < ApplicationRecord
 
+belongs_to(:company, { :required => false, :class_name => "Company", :foreign_key => "company_id" })
 
+belongs_to(:facility, { :required => false, :class_name => "Facility", :foreign_key => "facility_id" })
 
 
 
